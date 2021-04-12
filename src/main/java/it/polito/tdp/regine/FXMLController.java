@@ -81,7 +81,7 @@ public class FXMLController {
 				Label cell = caselle.get(row * N + col);
 				cell.setText("♕");
 			}
-		}
+		} 
 
 	}
 
